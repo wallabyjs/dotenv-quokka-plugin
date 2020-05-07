@@ -1,0 +1,26 @@
+{
+  "name": "dotenv-quokka-plugin",
+  "version": "1.0.0",
+  "description": "Quokka plugin to allow .env file to be loaded at start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/dotenv-quokka-plugin.git"
+  },
+  "keywords": [
+    "Quokka.js",
+    "Wallaby.js"
+  ],
+  "author": "Wallaby Pty Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/dotenv-quokka-plugin/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/dotenv-quokka-plugin#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
